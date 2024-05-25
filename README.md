@@ -39,7 +39,6 @@
 </div>
 
 
-
 ###
 
 <br clear="both">
@@ -52,3 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sabeer-junaid&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sabeer-junaid&theme=radical&no-frame=false&no-bg=true&margin-w=7)
