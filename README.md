@@ -1,15 +1,6 @@
-<h2 align="left">Hi 👋! My name is Sabeer Junida and I'm a from Pakistan</h2>
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">Hi 👋! My name is Sabeer Junaid</h2>
 
 ###
 
@@ -31,13 +22,18 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/sabeerjunaid/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black"></a>
+  <a href="https://www.frontendmentor.io/profile/SabeerJuniad"><img alt="Static Badge" src="https://img.shields.io/badge/frontendmentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=3F54A3&labelColor=black"></a>
+ <a href="https://mail.google.com/mail/u/0/?fs=1&to=sabeerjunaid992@gmail.com&tf=cm"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black">
+</a>
+<a href="https://instagram.com/sabeer_89"><img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=black"></a>
+<a href="https://dev.to/sabeerjuniad"><img alt="Static Badge" src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=devdotto&labelColor=black&color=yellow"></a>
+</br>
 </div>
 
 ###
@@ -47,3 +43,9 @@
 <img src="https://raw.githubusercontent.com/sabeer/sabeer/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sabeer-junaid&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
