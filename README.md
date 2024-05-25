@@ -20,6 +20,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+###
+
+
+
+
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sabeerjunaid/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black"></a>
@@ -31,13 +38,7 @@
 </br>
 </div>
 
-###
 
-![jordan-pak-lofi](https://github.com/Sabeer-Junaid/sabeer-junaid/assets/59570904/e2d512b4-b35c-4e29-b043-8650a28c6387)
-
-
-
-###
 
 ###
 
