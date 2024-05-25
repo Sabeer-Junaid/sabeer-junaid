@@ -40,7 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sabeer/sabeer/output/snake.svg" alt="Snake animation" />
 
 ###
 
