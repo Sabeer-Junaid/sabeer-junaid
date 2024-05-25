@@ -1,8 +1,12 @@
-###
+### Hey 👋, I'm Sabeer Junaid 👨‍💻
 
-<h2 align="left">Hi 👋! My name is Sabeer Junaid</h2>
+### About me :eyes:
 
-###
+- :dart: Front-End development   
+- :heart: Open source contributor
+- :e-mail: Ask me about anything ; **[sabeerjunaid992@gmail.com](sabeerjunaid992@gmail.com)**
+
+### Languages & Socials:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
