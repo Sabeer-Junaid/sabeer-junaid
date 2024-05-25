@@ -20,11 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sabeerjunaid/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black"></a>
@@ -35,6 +30,14 @@
 <a href="https://dev.to/sabeerjuniad"><img alt="Static Badge" src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=devdotto&labelColor=black&color=yellow"></a>
 </br>
 </div>
+
+###
+
+![jordan-pak-lofi](https://github.com/Sabeer-Junaid/sabeer-junaid/assets/59570904/e2d512b4-b35c-4e29-b043-8650a28c6387)
+
+
+
+###
 
 ###
 
