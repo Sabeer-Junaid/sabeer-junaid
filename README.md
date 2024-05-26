@@ -4,7 +4,7 @@
 
 - :dart: Front-End development   
 - :heart: Open source contributor
-- :e-mail: Ask me about anything ; **[sabeerjunaid992@gmail.com](sabeerjunaid992@gmail.com)**
+- :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com**
 
 ### Languages & Socials:
 
