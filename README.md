@@ -3,8 +3,9 @@
 </div>
 <br/>
 
-### Hey 👋, I'm Sabeer Junaid 👨‍💻
 <div align="center">
+<p><strong>Hey 👋, I'm Sabeer Junaid 👨‍💻</strong></p>
+
 
  :dart: Front-End development :heart: Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com**
 
