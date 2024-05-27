@@ -32,14 +32,16 @@
 
 <h2> 📊 Github Stats</h2>
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&theme=algolia&show_icons=true&hide_border=false&count_private=true"/> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeer-junaid&theme=algolia&hide_border=false"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeer-junaid&theme=algolia&show_icons=true&hide_border=false&layout=compact"/> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeer-junaid&theme=algolia&hide_border=false"/>
 </div>
 
 <h2> 🏆 Github Trophy Showcase</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=sabeer-junaid&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
+
+###
 
 ###
