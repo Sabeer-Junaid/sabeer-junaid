@@ -1,10 +1,14 @@
+<div align="center">
+		<img src="background.gif" alt="banner-img" height="50%" width="90%" />
+</div>
+<br/>
+
 ### Hey 👋, I'm Sabeer Junaid 👨‍💻
+<div align="center">
 
-### About me :eyes:
+ :dart: Front-End development :heart: Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com**
 
-- :dart: Front-End development   
-- :heart: Open source contributor
-- :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com**
+</div>
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
