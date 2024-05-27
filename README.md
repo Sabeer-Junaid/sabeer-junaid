@@ -13,13 +13,13 @@
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFE700?style=for-the-badge&logo=html5&logoColor=black" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFF460?style=for-the-badge&logo=html5&logoColor=black" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFF460?style=for-the-badge&logo=css3&logoColor=black" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-C3FCF1?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-FFF460?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
 <img alt="Github" src="https://img.shields.io/badge/GitHub-C3FCF1?style=for-the-badge&logo=github&logoColor=black"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-C3FCF1?style=for-the-badge&logo=visual%20studio%20code&logoColor=black"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFE700?style=for-the-badge&logo=mysql&logoColor=black" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFF460?style=for-the-badge&logo=mysql&logoColor=black" />
 <img alt="ReactJs" src="https://img.shields.io/badge/React-FFE7FF?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Canva-FFE7FF?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva" />
   </p>
@@ -31,7 +31,7 @@
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=sabeerjunaid992@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-FFF460?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Slack-C3FCF1?style=for-the-badge&logo=slack&logoColor=black"/>
 <a href="https://codepen.io/Sabeer-Junaid"><img src="https://img.shields.io/badge/Codepen-C3FCF1?style=for-the-badge&logo=codepen&logoColor=black"/></a>
-<a href="https://dev.to/sabeerjuniad"><img src="https://img.shields.io/badge/dev.to-FFE700?style=for-the-badge&logo=devdotto&logoColor=black"/></a>
+<a href="https://dev.to/sabeerjuniad"><img src="https://img.shields.io/badge/dev.to-FFF460?style=for-the-badge&logo=devdotto&logoColor=black"/></a>
 </div>
   </p>
 
