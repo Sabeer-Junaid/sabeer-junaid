@@ -33,6 +33,7 @@
 <a href="https://codepen.io/Sabeer-Junaid"><img src="https://img.shields.io/badge/Codepen-C3FCF1?style=for-the-badge&logo=codepen&logoColor=black"/></a>
 <a href="https://dev.to/sabeerjuniad"><img src="https://img.shields.io/badge/dev.to-FFF460?style=for-the-badge&logo=devdotto&logoColor=black"/></a>
 <a href="https://exercism.org/profiles/Sabeer-Junaid"><img src="https://img.shields.io/badge/Exercism-FFE7FF?style=for-the-badge&logo=Exercism" alt="Exercism" /></a>
+<a href="https://www.frontendmentor.io/profile/Sabeer-Junaid"><img src="https://img.shields.io/badge/FrontEndMentor-FFE7FF?style=for-the-badge&logo=Frontend Mentor&logoColor=black" alt="FrontEndMentor" /></a>
 </div>
   </p>
 
