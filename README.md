@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Slack-C3FCF1?style=for-the-badge&logo=slack&logoColor=black"/>
 <a href="https://codepen.io/Sabeer-Junaid"><img src="https://img.shields.io/badge/Codepen-C3FCF1?style=for-the-badge&logo=codepen&logoColor=black"/></a>
 <a href="https://dev.to/sabeerjuniad"><img src="https://img.shields.io/badge/dev.to-FFF460?style=for-the-badge&logo=devdotto&logoColor=black"/></a>
+<a href="https://exercism.org/profiles/Sabeer-Junaid"><img src="https://img.shields.io/badge/Exercism-FFE7FF?style=for-the-badge&logo=Exercism" alt="Exercism" /></a>
 </div>
   </p>
 
