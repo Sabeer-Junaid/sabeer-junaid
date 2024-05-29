@@ -20,7 +20,6 @@
 <img alt="Github" src="https://img.shields.io/badge/GitHub-C3FCF1?style=for-the-badge&logo=github&logoColor=black"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-C3FCF1?style=for-the-badge&logo=visual%20studio%20code&logoColor=black"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFF460?style=for-the-badge&logo=mysql&logoColor=black" />
-<img alt="ReactJs" src="https://img.shields.io/badge/React-FFE7FF?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Canva-FFE7FF?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva" />
   </p>
 
