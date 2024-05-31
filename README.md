@@ -48,6 +48,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=sabeer-junaid&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
-###
-
-###
+<div align="center">
+	
+### ✍️ Random Dev Quote
+	
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
