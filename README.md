@@ -38,7 +38,15 @@
 </div>
   </p>
 
-<h2> 📊 Github Stats</h2>
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime)](https://skillicons.dev)
+
+</div>
+
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats</h2>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&theme=algolia&show_icons=true&hide_border=false&count_private=true"/> <br>
