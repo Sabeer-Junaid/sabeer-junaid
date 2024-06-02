@@ -13,34 +13,30 @@
 
 </div>
 
-<h2> 🥞 Tech Stack</h2>
+<h2> 🥞 Tech Stack, 🎏 Socials, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools</h2>
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFF460?style=for-the-badge&logo=html5&logoColor=black" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFF460?style=for-the-badge&logo=css3&logoColor=black" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-C3FCF1?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-FFF460?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
-<img alt="Github" src="https://img.shields.io/badge/GitHub-C3FCF1?style=for-the-badge&logo=github&logoColor=black"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-C3FCF1?style=for-the-badge&logo=visual%20studio%20code&logoColor=black"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFF460?style=for-the-badge&logo=mysql&logoColor=black" />
-<img src="https://img.shields.io/badge/Canva-FFE7FF?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva" />
+ <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,mysql" /><br>
+  </a>
   </p>
-
-<h2> 🎏 Socials</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/sabeerjunaid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FFE7FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-<a href="https://instagram.com/sabeer_89"><img src="https://img.shields.io/badge/Instagram-FFE7FF?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=sabeerjunaid992@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-FFF460?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Slack-C3FCF1?style=for-the-badge&logo=slack&logoColor=black"/>
-<a href="https://codepen.io/Sabeer-Junaid"><img src="https://img.shields.io/badge/Codepen-C3FCF1?style=for-the-badge&logo=codepen&logoColor=black"/></a>
-<a href="https://dev.to/sabeerjuniad"><img src="https://img.shields.io/badge/dev.to-FFF460?style=for-the-badge&logo=devdotto&logoColor=black"/></a>
-<a href="https://exercism.org/profiles/Sabeer-Junaid"><img src="https://img.shields.io/badge/Exercism-FFE7FF?style=for-the-badge&logo=Exercism" alt="Exercism" /></a>
-<a href="https://www.frontendmentor.io/profile/Sabeer-Junaid"><img src="https://img.shields.io/badge/FrontEndMentor-FFE7FF?style=for-the-badge&logo=Frontend Mentor&logoColor=black" alt="FrontEndMentor" /></a>
-</div>
+  <p align="center">
+ <a href="https://www.linkedin.com/in/sabeerjunaid">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>	
+<a href="https://instagram.com/sabeer_89">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=sabeerjunaid992@gmail.com&tf=cm">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+<a href="https://codepen.io/Sabeer-Junaid">
+    <img src="https://skillicons.dev/icons?i=codepen" />
+  </a>
+<a href="https://dev.to/sabeerjuniad">
+    <img src="https://skillicons.dev/icons?i=devto" /><br>
+  </a>
   </p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools
-
-<div align="center">
+  <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime)](https://skillicons.dev)
 
