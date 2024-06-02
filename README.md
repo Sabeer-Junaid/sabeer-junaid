@@ -7,7 +7,9 @@
 <p><strong>Hey 👋, I'm Sabeer Junaid 👨‍💻</strong></p>
 
 
- :dart: Front-End developer :heart: Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com**
+ :dart: Front-End developer :heart: Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com** <br>
+
+<img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=plastic&color=ffffff&label=Profile+Views&color=%23000000" alt="Profile Views">
 
 </div>
 
