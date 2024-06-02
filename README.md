@@ -1,5 +1,6 @@
 <div align="center">
 		<img src="background.gif" alt="banner-img" height="50%" width="90%" />
+
 </div>
 <br/>
 
@@ -15,32 +16,20 @@
 
 <h2> 🥞 Tech Stack, 🎏 Socials, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools</h2>
 <p align="center">
+	
  <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,mysql" /><br>
   </a>
-  </p>
-  <p align="center">
- <a href="https://www.linkedin.com/in/sabeerjunaid">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>	
-<a href="https://instagram.com/sabeer_89">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  
+<a href="sabeerjuniad.github.io/LinkNest">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,codepen,devto" /><br>
   </a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=sabeerjunaid992@gmail.com&tf=cm">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-<a href="https://codepen.io/Sabeer-Junaid">
-    <img src="https://skillicons.dev/icons?i=codepen" />
-  </a>
-<a href="https://dev.to/sabeerjuniad">
-    <img src="https://skillicons.dev/icons?i=devto" /><br>
-  </a>
-  </p>
-  <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime)](https://skillicons.dev)
-
-</div>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime" /><br>
+  </a>
+  
+  </p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats</h2>
 <div align="center">
