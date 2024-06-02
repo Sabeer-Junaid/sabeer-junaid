@@ -5,10 +5,11 @@
 <br/>
 
 <div align="center">
-<p><strong>Hey 👋, I'm Sabeer Junaid 👨‍💻</strong></p>
+<p><strong>Hey <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" />
+, I'm Sabeer Junaid</strong></p>
 
 
- :dart: Front-End developer :heart: Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com** <br>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> Front-End developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="30" height="30" /> Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="30" height="30" /> <br>
 
 <img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=plastic&color=ffffff&label=Profile+Views&color=%23000000" alt="Profile Views">
 
