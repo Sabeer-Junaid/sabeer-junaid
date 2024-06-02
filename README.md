@@ -26,7 +26,7 @@
   </a>
 
   <a href="">
-    <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime,replit" /><br>
   </a>
   
   </p>
@@ -38,10 +38,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeer-junaid&theme=algolia&hide_border=false"/>
 </div>
 
-<h2> 🏆 Github Trophy Showcase</h2>
+<h2> 🏆 Github Trophy Showcase & Holopins</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=sabeer-junaid&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
+
+[![An image of @sabeerjunaid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabeerjunaid)](https://holopin.io/@sabeerjunaid)
 
 <div align="center">
 	
