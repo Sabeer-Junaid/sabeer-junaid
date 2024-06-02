@@ -38,9 +38,9 @@
 </div>
   </p>
 
-<div align="center">
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools
+
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime)](https://skillicons.dev)
 
