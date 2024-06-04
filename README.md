@@ -20,15 +20,15 @@ Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.
 <p align="center">
 	
  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwindcss,mysql" /><br>
   </a>
   
 <a href="sabeerjuniad.github.io/LinkNest">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,codepen,devto" /><br>
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,twitter,codepen,devto" /><br>
   </a>
 
   <a href="">
-    <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime,replit" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime,replit,netlify" /><br>
   </a>
   
   </p>
