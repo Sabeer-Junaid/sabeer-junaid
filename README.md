@@ -44,18 +44,14 @@ Open source contributor<br>
 </div>
 
 <h2> 🏆 Github Trophy Showcase & Holopins</h2>
+
+###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=sabeer-junaid&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 [![An image of @sabeerjunaid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabeerjunaid)](https://holopin.io/@sabeerjunaid)
 
-<div align="center">
-	
-### ✍️ Random Dev Quote
-	
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
