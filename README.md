@@ -48,7 +48,7 @@ Open source contributor<br>
 ###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=sabeer-junaid&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>unaid)
+</div>
 
 
 <p align="center">
