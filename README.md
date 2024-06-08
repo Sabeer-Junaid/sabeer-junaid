@@ -4,17 +4,19 @@
 </div>
 <br/>
 
-<div align="center">
+
 <p><strong>Hey <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="25" />
 , I'm Sabeer Junaid</strong></p>
 
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Front-End developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
-Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.com** <br>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Front-End developer<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/>
+Open source contributor<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me: **sabeerjunaid992@gmail.com** <br>
+⚡ Fun fact: I love to play chess <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Chess Pawn" width="25" height="25" ><br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=plastic&color=ffffff&label=Profile+Views&color=%23000000" alt="Profile Views">
 
-</div>
 
 <h2> 🥞 Tech Stack, 🎏 Socials, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools</h2>
 <p align="center">
