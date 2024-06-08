@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/>
 Open source contributor<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me: **sabeerjunaid992@gmail.com** <br>
-⚡ Fun fact: I love to play chess<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Fun fact: I love to play chess<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=plastic&color=ffffff&label=Profile+Views&color=%23000000" alt="Profile Views">
 
