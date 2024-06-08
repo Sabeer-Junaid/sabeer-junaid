@@ -43,14 +43,12 @@ Open source contributor<br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabeer-junaid&radius=16&theme=elegant&area=true&order=5&title_color=00AEFF&color=00AEFF&bg_color=050F2C&line=F1E05A&custom_title=Activity&hide_border=false" height="150" alt="activity-graph graph"  />
 </div>
 
-<h2> 🏆 Github Trophy Showcase & Holopins</h2>
+<h2> 🏆 Github Trophy Showcase</h2>
 
 ###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=sabeer-junaid&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-[![An image of @sabeerjunaid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabeerjunaid)](https://holopin.io/@sabeerjunaid)
+</div>unaid)
 
 
 <p align="center">
