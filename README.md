@@ -37,7 +37,7 @@ Open source contributor :e-mail: Ask me about anything: **sabeerjunaid992@gmail.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&theme=algolia&show_icons=true&hide_border=false&count_private=true" height="150"/>		 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeer-junaid&theme=algolia&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeer-junaid&theme=algolia&hide_border=false" height="150"/>
 </div>
 
 <h2> 🏆 Github Trophy Showcase & Holopins</h2>
