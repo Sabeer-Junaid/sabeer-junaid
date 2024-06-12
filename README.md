@@ -52,7 +52,9 @@ Open source contributor<br>
 
 ##   <img src="https://skillicons.dev/icons?i=codepen" width="25" />  Recent Pens
 
-1. <a href="https://codepen.io/Sabeer-Junaid/pen/OJYxowy" target="_blank"/>Button Animation</a>
+* <a href="https://codepen.io/Sabeer-Junaid/pen/qBGVEvL" target="_blank"/>Image Hover</a>
+* <a href="https://codepen.io/Sabeer-Junaid/pen/OJYxowy" target="_blank"/>Button Animation</a>
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
