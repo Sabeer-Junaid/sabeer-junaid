@@ -52,6 +52,7 @@ Open source contributor<br>
 
 ##   <img src="https://skillicons.dev/icons?i=codepen" width="25" />  Recent Pens
 
+* <a href="https://codepen.io/Sabeer-Junaid/pen/OJYONaj" target="_blank"/>Rainbow Border Animation</a>
 * <a href="https://codepen.io/Sabeer-Junaid/pen/qBGVEvL" target="_blank"/>Image Hover</a>
 * <a href="https://codepen.io/Sabeer-Junaid/pen/OJYxowy" target="_blank"/>Button Animation</a>
 
