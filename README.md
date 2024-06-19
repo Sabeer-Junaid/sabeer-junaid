@@ -1,5 +1,5 @@
 <div align="center">
-		<img src="https://github.com/Sabeer-Junaid/sabeer-junaid/assets/59570904/a2e4937b-45a1-4791-9288-fc2e5a4e8530" alt="banner-img" height="50%" width="90%" style="border-radius: 10;" />
+		<img src="https://github.com/Sabeer-Junaid/sabeer-junaid/assets/59570904/4a0e9dc2-0aab-42f3-bae7-19f3951846dd" alt="banner-img" height="50%" width="90%" style="border-radius: 10;" />
 
 </div>
 <br/>
