@@ -1,12 +1,3 @@
-<a href="https://github.com/Andrew6rant/Andrew6rant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="main.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
-  </picture>
-	
-</a>
-<br/>
-
 <div align="center">
 <p><strong>Hey <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="25" />
 , I'm Sabeer Junaid</strong></p>
