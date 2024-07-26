@@ -27,15 +27,15 @@ Open source contributor<br>
 <h2> 🥞 Tech Stack, 🎏 Socials, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools</h2>
 	
  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwindcss,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwindcss,mysql" />
   </a>
   
 <a href="sabeerjuniad.github.io/LinkNest">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,twitter,codepen,devto" /><br>
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,twitter,codepen,devto" />
   </a>
 
   <a href="">
-    <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime,replit,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime,replit,netlify" />
   </a>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats</h2>
