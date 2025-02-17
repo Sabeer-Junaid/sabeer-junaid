@@ -12,16 +12,22 @@ Open source contributor<br>
 <img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=plastic&color=ffffff&label=Profile+Views&color=%23000000" alt="Profile Views">
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projects 
 
+ [<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=quotify&theme=moltack" width="35%" height="100%"/>](https://github.com/Sabeer-Junaid/quotify)
+ [<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=LinkNest&theme=moltack" width="35%" height="100%"/>](https://github.com/Sabeer-Junaid/LinkNest)
+ 
+
+ 
  1. [Quotify - Random Quote Generator](https://sabeer-junaid.github.io/quotify/)
- 2. [Emoji Copilot - Copy Paste Emojis](https://sabeer-junaid.github.io/emoji-copilot/)
- 3. [LinkNest - Free Alternative of Linktree](https://sabeer-junaid.github.io/LinkNest/)
- 4. [Social Media Downloader UI](https://sabeer-junaid.github.io/social-media-downloader-ui/)
- 5. [Profile Card Component](https://sabeer-junaid.github.io/profile-card-component/)
- 6. [Blog Preview Card](https://sabeer-junaid.github.io/blog-preview-card/)
- 7. [QR Code Component](https://sabeer-junaid.github.io/QR-Code-Component/)
- 8. [Codepen - Projects](https://codepen.io/Sabeer-Junaid)
+   
+ 3. [Emoji Copilot - Copy Paste Emojis](https://sabeer-junaid.github.io/emoji-copilot/)
+ 4. [LinkNest - Free Alternative of Linktree](https://sabeer-junaid.github.io/LinkNest/)
+ 5. [Social Media Downloader UI](https://sabeer-junaid.github.io/social-media-downloader-ui/)
+ 6. [Profile Card Component](https://sabeer-junaid.github.io/profile-card-component/)
+ 7. [Blog Preview Card](https://sabeer-junaid.github.io/blog-preview-card/)
+ 8. [QR Code Component](https://sabeer-junaid.github.io/QR-Code-Component/)
+ 9. [Codepen - Projects](https://codepen.io/Sabeer-Junaid)
 
 
 <h2> 🥞 Tech Stack, 🎏 Socials, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools</h2>
