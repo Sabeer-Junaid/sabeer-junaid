@@ -14,10 +14,6 @@ Open source contributor<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projects 
 
- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=quotify&theme=moltack" width="35%" height="100%"/>](https://github.com/Sabeer-Junaid/quotify)
- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=LinkNest&theme=moltack" width="35%" height="100%"/>](https://github.com/Sabeer-Junaid/LinkNest)
- 
-
  
  1. [Quotify - Random Quote Generator](https://sabeer-junaid.github.io/quotify/)
    
