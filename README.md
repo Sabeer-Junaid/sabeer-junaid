@@ -43,19 +43,12 @@ Open source contributor<br>
 <p align = center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&theme=moltack" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&theme=moltack" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&layout=compact&langs_count=8&card_width=320&theme=moltack" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
 
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&theme=algolia&show_icons=true&hide_border=false&count_private=true" height="150"/>		 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeer-junaid&theme=algolia&hide_border=false" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabeer-junaid&radius=16&theme=elegant&area=true&order=5&title_color=00AEFF&color=00AEFF&bg_color=050F2C&line=F1E05A&custom_title=Activity&hide_border=false" height="150" alt="activity-graph graph"  />
 
 <details open> 
   <summary><h2>📘 My Open Source Projects</h2></summary>
