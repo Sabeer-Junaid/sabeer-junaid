@@ -10,20 +10,104 @@ Open source contributor<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=plastic&color=ffffff&label=Profile+Views&color=%23000000" alt="Profile Views">
 
+<!-- TECH SECTION -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projects 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
- 
- 1. [Quotify - Random Quote Generator](https://sabeer-junaid.github.io/quotify/)
-   
- 3. [Emoji Copilot - Copy Paste Emojis](https://sabeer-junaid.github.io/emoji-copilot/)
- 4. [LinkNest - Free Alternative of Linktree](https://sabeer-junaid.github.io/LinkNest/)
- 5. [Social Media Downloader UI](https://sabeer-junaid.github.io/social-media-downloader-ui/)
- 6. [Profile Card Component](https://sabeer-junaid.github.io/profile-card-component/)
- 7. [Blog Preview Card](https://sabeer-junaid.github.io/blog-preview-card/)
- 8. [QR Code Component](https://sabeer-junaid.github.io/QR-Code-Component/)
- 9. [Codepen - Projects](https://codepen.io/Sabeer-Junaid)
+> Tools, languages, and other things that I like to work with.
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      </a>
+      <br>
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <br>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      </a>
+      <br>
+    </td>
+	<td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      </a>
+      <br>
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="BS" />
+      </a>
+      <br>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      </a>
+      <br>
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <br>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      </a>
+      <br>
+    </td>
+	<td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      </a>
+      <br>
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="BS" />
+      </a>
+      <br>
+    </td>
+  </tr>
+</table>
 
 <h2> 🥞 Tech Stack, 🎏 Socials, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tools</h2>
 	
@@ -39,7 +123,9 @@ Open source contributor<br>
     <img src="https://skillicons.dev/icons?i=vscode,github,visualstudio,sublime,replit,netlify" />
   </a>
 
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats</h2>
+<details open>
+	 <summary><h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats</h2></summary>
+
 <p align = center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -48,13 +134,12 @@ Open source contributor<br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
+</details>
 
-
+<!-- MY OPEN SOURCE PROJECT SECTION -->
 <details open> 
   <summary><h2>📘 My Open Source Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
 	  
    <a href="https://github.com/Sabeer-Junaid/quotify"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=quotify&theme=moltack" alt="Quotify Repo"></a>
@@ -62,22 +147,12 @@ Open source contributor<br>
    
   </p>
 
-  <a href="https://github.com/sabeer-junaid?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+  <a href="https://github.com/sabeer-junaid?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></details>
+
+<!-- HOLOPINS SECTION -->
 
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@sabeerjunaid"><img src="https://holopin.me/sabeerjunaid" alt="@sabeerjunaid1&#39;s Holopin board"></a></p>
 </details>
-
-<h2> 🏆 Github Trophy Showcase</h2>
-
-###
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sabeer-junaid&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
