@@ -1,7 +1,4 @@
-
-<p><strong>Hey <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="25" />
-, I'm Sabeer Junaid</strong></p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F5E1C0&center=true&vCenter=true&width=600&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Sabeer+Junaid...;Nice+to+meet+you!" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Front-End developer<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/>
@@ -47,6 +44,26 @@ Open source contributor<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeer-junaid&theme=algolia&hide_border=false" height="150"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabeer-junaid&radius=16&theme=elegant&area=true&order=5&title_color=00AEFF&color=00AEFF&bg_color=050F2C&line=F1E05A&custom_title=Activity&hide_border=false" height="150" alt="activity-graph graph"  />
 
+<details open> 
+  <summary><h2>📘 My Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+	  
+   <a href="https://github.com/Sabeer-Junaid/quotify"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=quotify&theme=moltack" alt="Quotify Repo"></a>
+   <a href="https://github.com/Sabeer-Junaid/linknest"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=linknest&theme=moltack" alt="Quotify Repo"></a>
+   
+  </p>
+
+  <a href="https://github.com/sabeer-junaid?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@sabeerjunaid"><img src="https://holopin.me/sabeerjunaid" alt="@sabeerjunaid1&#39;s Holopin board"></a></p>
+</details>
 
 <h2> 🏆 Github Trophy Showcase</h2>
 
