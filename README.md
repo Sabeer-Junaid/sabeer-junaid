@@ -2,6 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=30&color=F5E1C0&center=true&vCenter=true&width=440&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Sabeer+Junaid...;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/Sabeer-Junaid/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="sabeer-junaid" align="right" />
+</a>
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/Sabeer-Junaid/github-stats-transparent/refs/heads/output/generated/languages.svg" alt="sabeer-junaid" align="right" />
+</a>
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Front-End developer<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/>
 Open source contributor<br>
