@@ -1,11 +1,18 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=30&color=F5E1C0&center=true&vCenter=true&width=440&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Sabeer+Junaid...;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<!-- GREETINGS-->
+<h1 align="left">Hello there! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="25" /> I'm Sabeer Junaid</h1>
+<!--Connect with me-->
+<p>
+<img src="https://img.shields.io/badge/Gmail-F5E1C0?style=for-the-badge&logo=gmail" alt="Gmail" />
+<img src="https://img.shields.io/badge/LINKEDIN-F5E1C0?style=for-the-badge" alt="LINKEDIN" />
+<img src="https://img.shields.io/badge/Dev.to-F5E1C0?style=for-the-badge&logo=devdotto&logoColor=black" alt="Dev.to" />
+<img src="https://img.shields.io/badge/Instagram-F5E1C0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
+<img src="https://img.shields.io/badge/Discord-F5E1C0?style=for-the-badge&logo=discord" alt="Discord" />
 </p>
-
+<!-- Profile Views -->
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/Sabeer-Junaid/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="sabeer-junaid" align="right" />
 </a>
-
+<!-- Description-->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Front-End developer<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/>
@@ -13,11 +20,10 @@ Open source contributor<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me: **sabeerjunaid992@gmail.com** <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Fun fact: I love to play chess<br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=plastic&color=ffffff&label=Profile+Views&color=%23000000" alt="Profile Views">
-
+<img src="https://komarev.com/ghpvc/?username=Sabeer-Junaid&style=for-the-badge&color=fffff&label=Profile+Views&color=%23000000" alt="Profile Views">
 
 <!-- TECH SECTION -->
-     
+
 <h2 align="left" id="sabeer-junaid">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -38,15 +44,19 @@ Open source contributor<br>
 
 > An overview of my contributions, repositories, and coding activity on GitHub.
 
-
 <p align = left>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sabeer-junaid&theme=moltack" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
+<a>
+  <img height=136 src="https://github-readme-streak-stats.herokuapp.com/?user=SABEER-JUNAID&theme=moltack&hide_border=false"/>
+</a>
+</p>
+
 
 
 <!-- MY OPEN SOURCE PROJECT SECTION -->
@@ -62,14 +72,24 @@ Open source contributor<br>
    
   </p>
 
-  <a href="https://github.com/sabeer-junaid?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></details>
+<a href="https://github.com/sabeer-junaid?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></details>
 
 <!-- HOLOPINS SECTION -->
 
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  > Digital badges I've earned for achievements, contributions, and participation in various tech communities and events
+> Digital badges I've earned for achievements, contributions, and participation in various tech communities and events
 
   <p><a href="https://holopin.io/@sabeerjunaid"><img src="https://holopin.me/sabeerjunaid" alt="@sabeerjunaid1&#39;s Holopin board"></a></p>
+</details>
+
+<!-- GITHUB TROPHIES SECTION -->
+
+<details>
+  <summary><h2>GitHub Trophies</h2></summary>
+
+ > A showcase of my GitHub achievements, highlighting contributions, coding activity, and milestones
+
+![](https://github-trophies.vercel.app/?username=SABEER-JUNAID&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 </details>
