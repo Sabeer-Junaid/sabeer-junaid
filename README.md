@@ -65,8 +65,8 @@ Open source contributor<br>
   <p align="left">
 	  
    <a href="https://github.com/Sabeer-Junaid/quotify"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=quotify&theme=moltack" alt="Quotify Repo"></a>
-   <a href="https://github.com/Sabeer-Junaid/linknest"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=linknest&theme=moltack" alt="Quotify Repo"></a>
-   
+   <a href="https://github.com/Sabeer-Junaid/linknest"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=linknest&theme=moltack" alt="Linknest Repo"></a>
+   <a href="https://github.com/Sabeer-Junaid/emoji-copilot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sabeer-junaid&repo=emoji-copilot&theme=moltack" alt="Emoji-Copilot Repo"></a>
   </p>
 
 <a href="https://github.com/sabeer-junaid?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></details>
