@@ -52,9 +52,6 @@ Open source contributor<br>
 <a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeer-junaid&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
-<a>
-  <img height=136 src="https://github-readme-streak-stats.herokuapp.com/?user=SABEER-JUNAID&theme=moltack&hide_border=false"/>
-</a>
 </p>
 
 
