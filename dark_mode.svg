@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530">
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="330" viewBox="0 0 985 330">
 
-  <rect width="985" height="530" rx="15" fill="#161b22"/>
+  <rect width="985" height="330" rx="15" fill="#161b22"/>
 
   <style>
     .key {fill: #ffa657;}
